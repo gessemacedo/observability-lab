@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+k8s
+grafana
+prometheus.yml
+docker-compose.yml
+README.md
+*.md
